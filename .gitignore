@@ -1,0 +1,4 @@
+config.ini
+*.csv
+*.pkl
+.ipynb_checkpoints/
